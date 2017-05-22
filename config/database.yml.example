@@ -1,0 +1,6 @@
+adapter: "sqlserver"
+host: "localhost"
+port: '1433'
+username: "todo!"
+password: "todo!"
+database: "todo!"
